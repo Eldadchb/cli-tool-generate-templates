@@ -30,7 +30,7 @@ const htmlTemplate = `<!doctype html>
 
 <body>
   <!-- your content here... -->
-  <script src="scripts.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>;`;
 
